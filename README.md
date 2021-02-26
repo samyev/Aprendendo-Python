@@ -7,6 +7,5 @@
 <p> O intuito deste repositório é ajudar desenvolvedores que estão iniciando na linguagem python, a baixo farei uma lista dos tipos de códigos que serão submetidos aqui, assim todos poderão ver e contribuir assim queiram. </p>
 
 # Python para Todos
->Python para todos é uma série de cursos em vídeo gratuitos que ensina os fundamentos do uso do Python 3.
 
-Os cursos foram criados pelo Dr. Charles Severance (também conhecido como Dr. Chuck). Ele é um professor clínico na Escola de Informação da Universidade de Michigan, onde ministra vários cursos voltados para a tecnologia, incluindo programação, design de banco de dados e desenvolvimento web.<
+>Os cursos foram criados pelo Dr. Charles Severance (também conhecido como Dr. Chuck). Ele é um professor clínico na Escola de Informação da Universidade de >Michigan, onde ministra vários cursos voltados para a tecnologia, incluindo programação, design de banco de dados e desenvolvimento web.
