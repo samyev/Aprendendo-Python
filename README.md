@@ -8,4 +8,4 @@
 
 # Python para Todos
 
->Os cursos foram criados pelo Dr. Charles Severance (também conhecido como Dr. Chuck). Ele é um professor clínico na Escola de Informação da Universidade de >Michigan, onde ministra vários cursos voltados para a tecnologia, incluindo programação, design de banco de dados e desenvolvimento web.
+>Os cursos foram criados pelo Dr. Charles Severance (também conhecido como Dr. Chuck). Ele é um professor clínico na Escola de Informação da Universidade de Michigan, onde ministra vários cursos voltados para a tecnologia, incluindo programação, design de banco de dados e desenvolvimento web.
