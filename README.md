@@ -14,5 +14,7 @@
 - [ ] Hello World em python
 
 # Referências 
-<a href=https://www.freecodecamp.org/learn>FreeCodeCamp</a>
+<h2 align="center">
+  <a href=https://www.freecodecamp.org/learn>🔗 FreeCodeCamp</a>
+</h2>
 
