@@ -17,6 +17,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 
 ## Referências 
 <h3 align="center">
-  <i class="fab fa-free-code-camp"></i><a href=https://www.freecodecamp.org/learn>FreeCodeCamp</a>
+  <i class="fab fa-free-code-camp"></i><a href=https://www.freecodecamp.org/learn>file:///home/potatosmall/Downloads/free-code-camp-brands.svg![image](https://user-images.githubusercontent.com/37720085/109405073-66d9f400-794b-11eb-8607-5e1ce4c7629d.png)
+FreeCodeCamp</a>
 </h3>
 
