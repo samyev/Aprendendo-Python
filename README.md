@@ -22,4 +22,4 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 
 ## Referências 
 * [FreeCodeCamp](https://www.freecodecamp.org/learn)
-* [🐍 Livro Python para todos: Explorando dados com python 3](https://www.py4e.com/book.php)
+* [Livro Python para todos: Explorando dados com python 3 🐍](https://www.py4e.com/book.php)
