@@ -13,8 +13,6 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 ## Check Códigos
 - [ ] Hello World em python
 
-## Como Contribuir
-
 
 
 ## Referências 
