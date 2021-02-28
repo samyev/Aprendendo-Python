@@ -1,5 +1,10 @@
 <h1 align="center">Aprendendo Python com FreeCodeCamp</h1>
 
+<h4 align="center"> 
+	📖  Estudos 🐍 Em andamento...  📖
+</h4>
+
+
 Neste repositório vou deixar registrado vários códigos feitos em python, começando do básico e indo talvez ao avançado. Todos os códigos terão como referência o curso _Scientific Computing with Python_ em português significa Computação Científica com Python, da plataforma de cursos _FreeCodeCamp_, este curso é subdidividido entre dois, _Python for Everybody_ (Python para todos) e _Scientific Computing with Python Projects_ (Computação científica com projetos Python).
 
 ## Principal Motivação
