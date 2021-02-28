@@ -17,6 +17,6 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 
 ## Referências 
 <h3 align="center">
-  <a href=https://www.freecodecamp.org/learn>🔗 FreeCodeCamp</a>
+  <a href=https://www.freecodecamp.org/learn><i class="fab fa-free-code-camp"></i>FreeCodeCamp</a>
 </h3>
 
