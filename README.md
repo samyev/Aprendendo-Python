@@ -9,7 +9,7 @@ Neste repositório vou deixar registrado vários códigos feitos em python, come
 
 ## Principal Motivação
 
-O intuito deste repositório é ajudar desenvolvedores que estão iniciando na linguagem python assim como eu, a baixo farei uma lista dos tipos de códigos que serão submetidos aqui, assim todos poderão ver e contribuir assim queiram.
+O intuito deste repositório é ajudar desenvolvedores que estão iniciando na linguagem python ou não possuem nenhuma experiência, assim como eu, a baixo farei uma lista dos tipos de códigos que serão submetidos aqui, assim todos poderão ver e contribuir assim queiram.
 
 ## Python para Todos
 
