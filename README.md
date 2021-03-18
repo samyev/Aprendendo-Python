@@ -17,6 +17,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 
 ## Check Códigos
 - [x] Olá mundo! em python
+- [x] Tipos de dados em python
 
 
 
