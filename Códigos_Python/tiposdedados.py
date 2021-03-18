@@ -7,6 +7,6 @@
 # Para ter mais certeza sobre qual classe um valor pertence, pyhton possui uma função chamada "type", que descreve
 # o tipo de classe aquee=le valor pertence
 
-print(type("Olá, mundo!"))
+print(type("Olá, mundo!")) # Para se escrever uma string se usa aspas "" e se escreve dentro dela "Olá"
 print (type(2021))
-print("Olá, mundo!")
+print("Olá, mundo!") # Para imprimir esta string se uma "print" assim ele mostrará esta string na tela
