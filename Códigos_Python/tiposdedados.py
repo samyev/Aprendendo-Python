@@ -10,4 +10,6 @@
 print(type("Olá, mundo!")) # Para se escrever uma string se usa aspas "" e se escreve dentro dela "Olá", pode se usar
                            # também entre apóstrofos 'Olá' ou trêS de cada '''Olá''' e """Olá""" 
 print (type(2021))
+
 print("Olá, mundo!") # Para imprimir esta string se uma "print" assim ele mostrará esta string na tela
+print('''Olá, mundo!''')
