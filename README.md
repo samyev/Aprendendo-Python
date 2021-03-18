@@ -24,3 +24,4 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 ## Referências 
 * [FreeCodeCamp](https://www.freecodecamp.org/learn)
 * [Livro Python para todos: Explorando dados com python 3 🐍](https://www.py4e.com/book.php)
+* [Como Pensar Como um Cientista da Computação - Livro Interativo](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
