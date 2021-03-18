@@ -17,3 +17,14 @@ print('''Olá, mundo!''') # Strings triplos são chamados de triple quoted strin
 # Strings com aspas pode conter apóstrofos, e strings com apóstrofos podem conter aspas
 
 print('''"Oh nao", exclamou ela, "A bicleta esta quebrada!"''')
+
+# Strings triplos podem se estender por várias linhas
+
+mensagem = """Esta mensagem ira
+se esternder varias
+linhsa."""
+print(mensagem)
+
+print("""Esta mensagem se estende
+por varias linhas
+do texto.""")
