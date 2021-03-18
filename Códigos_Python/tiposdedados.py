@@ -12,7 +12,7 @@ print(type("Olá, mundo!")) # Para se escrever uma string se usa aspas "" e se e
 print (type(2021))
 
 print("Olá, mundo!") # Para imprimir esta string se uma "print" assim ele mostrará esta string na tela
-print('''Olá, mundo!''')
+print('''Olá, mundo!''') # Strings triplos são chamados de triple quoted strings
 
 # Strings com aspas pode conter apóstrofos, e strings com apóstrofos podem conter aspas
 
