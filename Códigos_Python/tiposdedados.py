@@ -13,3 +13,7 @@ print (type(2021))
 
 print("Olá, mundo!") # Para imprimir esta string se uma "print" assim ele mostrará esta string na tela
 print('''Olá, mundo!''')
+
+# Strings com aspas pode conter apóstrofos, e strings com apóstrofos podem conter aspas
+
+print('''"Oh nao", exclamou ela, "A bicleta esta quebrada!"''')
