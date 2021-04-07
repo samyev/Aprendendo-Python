@@ -20,6 +20,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 - [x] Tipos de dados em python
 - [x] Conversão de valores em python
 - [x] Variaveis
+- [x] Palavras reservadas (arquivo PalavrasReservadas.txt)
 
 ## Códigos Extras
 - [x] Conversão de moeda
