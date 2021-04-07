@@ -24,6 +24,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 
 ## Códigos Extras
 - [x] Conversão de moeda
+- [x] Conversão de  minutos para horas
 
 
 ## Referências 
