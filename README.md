@@ -21,6 +21,12 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 - [x] Conversão de valores em python
 - [x] Variaveis
 - [x] Palavras reservadas (arquivo PalavrasReservadas.txt)
+- [x] Comandos e expressões
+- [x] Operadores e operandos
+- [x] Input
+- [x] Ordem das operações
+- [x] Reatribuições
+- [x] Atualização das variáveis
 
 ## Códigos Extras
 - [x] Conversão de moeda
