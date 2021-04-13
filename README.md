@@ -19,7 +19,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 - [x] Olá mundo! em python
 - [x] Tipos de dados em python
 - [x] Conversão de valores em python
-- [x] Variaveis
+- [x] Variáveis
 - [x] Palavras reservadas (arquivo PalavrasReservadas.txt)
 - [x] Comandos e expressões
 - [x] Operadores e operandos
