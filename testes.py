@@ -1,4 +1,8 @@
-# Este é um arquivo que uso para testar 
-# meus códigos durante o meu periódo de estudos
+# Este é um arquivo que uso para testar meus códigos durante o meu periódo de estudos
 
-print(18%4)
+x = 15 
+print(x)
+y = x
+print(y)
+x= 22 
+print(x)
