@@ -1,4 +1,4 @@
-<h1 align="center">Aprendendo Python com o livro Como Pensar Como um Cientista da Computação</h1>
+<h1 align="center">Aprendendo Python</h1>
 
 <h4 align="center"> 
 	📖  Estudos 🐍 Em andamento...  📖
