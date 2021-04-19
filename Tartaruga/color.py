@@ -1,3 +1,4 @@
+# Leia sobre turtle no livro "Como Pensar Como um Cientista da Computação" em referências
 import turtle
 
 # exercicio: pergunte ao usuário a cor que ele deseja para o screen

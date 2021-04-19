@@ -27,6 +27,8 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 - [x] Ordem das operações
 - [x] Reatribuições
 - [x] Atualização das variáveis
+- [x] Estrutura de repetição for
+- [x] Biblioteca turtle
 
 ## Códigos Extras
 - [x] Conversão de moeda

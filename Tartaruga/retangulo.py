@@ -1,4 +1,6 @@
 # Rode este código no terminal
+
+# leia sobre turtle no livro "Como Pensar Como um Cientista da Computação" em referências
 import turtle           # permite usar as funções e objetos do módulo turtle
 
 wn = turtle.Screen()     # cria uma janela gráfica
