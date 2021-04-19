@@ -1,15 +1,18 @@
-<h1 align="center">Aprendendo Python com FreeCodeCamp</h1>
+<h1 align="center">Aprendendo Python com o livro Como Pensar Como um Cientista da Computação</h1>
 
 <h4 align="center"> 
 	📖  Estudos 🐍 Em andamento...  📖
 </h4>
 
 
-Neste repositório vou deixar registrado vários códigos feitos em python, começando do básico e indo talvez ao avançado. Todos os códigos terão como referência o curso _Scientific Computing with Python_ em português significa Computação Científica com Python, da plataforma de cursos _FreeCodeCamp_, este curso é subdidividido entre dois, _Python for Everybody_ (Python para todos) e _Scientific Computing with Python Projects_ (Computação científica com projetos Python).
+Neste repositório vou deixar registrado vários códigos feitos em python, começando do básico e indo talvez ao avançado. Todos os códigos terão como referência o livro interativo Como Pensar como um Cientista da Computação, este livro é um livro interativo que possui perguntas ao longo da leitura, vídeos e até mesmo um compilaodr web, também usarei como base o curso _Scientific Computing with Python_ em português significa Computação Científica com Python, da plataforma de cursos _FreeCodeCamp_, este curso é subdidividido entre dois, _Python for Everybody_ (Python para todos) e _Scientific Computing with Python Projects_ (Computação científica com projetos Python).
 
 ## Principal Motivação
 
 O intuito deste repositório é ajudar desenvolvedores que estão iniciando na linguagem python ou não possuem nenhuma experiência, assim como eu, a baixo farei uma lista dos tipos de códigos que serão submetidos aqui, assim todos poderão ver e contribuir assim queiram.
+
+## Como Pensar omo um Cientista da Computação
+>O livro foi escrito por Allen Downey que é professor de Ciência da Computação no Olin College of Engineering. Ele já ensinou no Wellesley College, no Colby College e na U. C. Berkeley. Tem PhD em Ciência da Computação da U.C. Berkeley e mestrado e bacharelado pelo MIT.
 
 ## Python para Todos
 
@@ -33,9 +36,10 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 ## Códigos Extras
 - [x] Conversão de moeda
 - [x] Conversão de  minutos para horas
+- [x] Conversão de segundos em horas, minutos e segundos
 
 
 ## Referências 
 * [FreeCodeCamp](https://www.freecodecamp.org/learn)
 * [Livro Python para todos: Explorando dados com python 3 🐍](https://www.py4e.com/book.php)
-* [Como Pensar Como um Cientista da Computação - Livro Interativo](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
+* [Como Pensar como um Cientista da Computação - Livro Interativo](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
