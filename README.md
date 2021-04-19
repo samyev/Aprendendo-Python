@@ -11,7 +11,8 @@ Neste repositório vou deixar registrado vários códigos feitos em python, come
 
 O intuito deste repositório é ajudar desenvolvedores que estão iniciando na linguagem python ou não possuem nenhuma experiência, assim como eu, a baixo farei uma lista dos tipos de códigos que serão submetidos aqui, assim todos poderão ver e contribuir assim queiram.
 
-## Como Pensar omo um Cientista da Computação
+## Como Pensar como um Cientista da Computação
+
 >O livro foi escrito por Allen Downey que é professor de Ciência da Computação no Olin College of Engineering. Ele já ensinou no Wellesley College, no Colby College e na U. C. Berkeley. Tem PhD em Ciência da Computação da U.C. Berkeley e mestrado e bacharelado pelo MIT.
 
 ## Python para Todos
