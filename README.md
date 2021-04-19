@@ -5,7 +5,7 @@
 </h4>
 
 
-Neste repositório vou deixar registrado vários códigos feitos em python, começando do básico e indo talvez ao avançado. Todos os códigos terão como referência o livro interativo Como Pensar como um Cientista da Computação, este livro é um livro interativo que possui perguntas ao longo da leitura, vídeos e até mesmo um compilaodr web, também usarei como base o curso _Scientific Computing with Python_ em português significa Computação Científica com Python, da plataforma de cursos _FreeCodeCamp_, este curso é subdidividido entre dois, _Python for Everybody_ (Python para todos) e _Scientific Computing with Python Projects_ (Computação científica com projetos Python).
+Neste repositório vou deixar registrado vários códigos feitos em python, começando do básico e indo talvez ao avançado. Todos os códigos terão como referência o livro interativo Como Pensar como um Cientista da Computação, este livro é um livro interativo que possui perguntas ao longo da leitura, vídeos e até mesmo um compilaodor web, também usarei como base o curso _Scientific Computing with Python_ em português significa Computação Científica com Python, da plataforma de cursos _FreeCodeCamp_, este curso é subdidividido entre dois, _Python for Everybody_ (Python para todos) e _Scientific Computing with Python Projects_ (Computação científica com projetos Python).
 
 ## Principal Motivação
 
