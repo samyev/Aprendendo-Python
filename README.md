@@ -33,6 +33,7 @@ O intuito deste repositório é ajudar desenvolvedores que estão iniciando na l
 - [x] Atualização das variáveis
 - [x] Estrutura de repetição for
 - [x] Biblioteca turtle
+- [x] Objeto range
 
 ## Códigos Extras
 - [x] Conversão de moeda
