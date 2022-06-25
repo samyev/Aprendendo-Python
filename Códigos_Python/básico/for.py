@@ -6,5 +6,6 @@
 
 # neste exemplo o for percorre uma lista chamada "amigo" e printa na tela
 # uma mensagem para cada nome da lista
+
 for amigo in ["Joe", "Amy", "Brad", "Angelina", "Zuki", "Thandi", "Paris"]:
     print("Ola ", amigo, "  Por favor venha a minha festa no sabado!")
