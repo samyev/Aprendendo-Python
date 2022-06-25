@@ -1,4 +1,4 @@
-# Notes about Python
+# Notas sobre Python
 
 Dicas: Explicito é melhor do que Implicito
 
